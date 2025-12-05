@@ -1,5 +1,5 @@
 
-# **Reliability
+# Reliability
 
 Reliability is crucial in system design, ensuring consistent performance and minimal failures.
 
