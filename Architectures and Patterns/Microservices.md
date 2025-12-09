@@ -1,1 +1,6 @@
 
+Microservices are an architectural approach to developing software applications as a collection of small, independent services that communicate with each other over a network.
+
+Instead of building a monolithic application where all the functionality is tightly integrated into a single codebase, microservices break down the application into smaller, loosely coupled services.
+Can be written in a variety of programming languages, and frameworks, and each service acts as a mini-application on its own.
+A small, loosely coupled service that is designed to perform a specific business function and each microservice can be developed, deployed, and scaled independently.
