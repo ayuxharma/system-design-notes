@@ -20,4 +20,18 @@ Reliability and Availability: With robust server infrastructure, client-server s
 Enhanced Security: Centralized servers enable better security controls and data protection measures. Sensitive data can be securely stored on servers, and access can be tightly controlled and monitored. Encryption and authentication mechanisms can be more effectively implemented.
 
 
+Key Components of Client Server Architecture
+Client-server architecture in system design involves several key components that work together to ensure efficient communication, resource management, and service delivery. Here are the main components:
+
+Client: The client is a device or application that requests services or resources from the server. It initiates communication with the server and processes the results returned by the server.
+Server: The server is a powerful machine or application that provides services or resources to clients. It processes client requests, performs the necessary computations or data retrieval, and sends back the appropriate responses.
+Network: The network facilitates communication between clients and servers. It enables data exchange using various protocols and ensures reliable connectivity.
+Protocols: Protocols are standardized rules that govern data transmission and communication between clients and servers. They ensure that data is transmitted in a secure, reliable, and understood manner.
+Middleware: Middleware is software that acts as an intermediary between clients and servers. It provides additional functionalities like authentication, logging, message queuing, and transaction management.
+Database: A database is a structured collection of data stored on the server. It stores and manages data that clients request, ensuring data consistency, integrity, and security.
+User Interface (UI): The UI is the part of the client application that interacts with the user. It provides a means for users to input data and view results returned by the server.
+Application Logic: Application logic refers to the code and algorithms that define the application's functionality. It processes user inputs, interacts with the server, and manages the flow of data between the client and the server.
+
+
+
 
