@@ -22,6 +22,9 @@ Redis is widely used for:
 
 ## How Redis Works
 
+<img width="1000" height="470" alt="image" src="https://github.com/user-attachments/assets/5e971afe-ffc0-4de3-b1b5-fd54e13abcff" />
+
+
 Redis acts as a **caching layer** between the client and the primary database.
 
 ### Request Flow
